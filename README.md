@@ -6,7 +6,7 @@ Esta es una aplicación simple de temporizador Pomodoro, desarrollada con **Reac
 
 ## 🚀 Funcionalidades
 
-- Temporizador de 25 minutos (1500 segundos)
+- Temporizador de 25, 15, 5 minutos
 - Interfaz limpia y moderna
 - Contador regresivo con formato `mm:ss`
 
